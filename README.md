@@ -8,7 +8,8 @@ This project features a 3D environment created in Unity from real-world scans of
 ## Setup Instructions
 
 1. Clone the repository containing this project.
-2. Place this `README.md` and the `image.png` in the same directory.
-3. Open the 3D environment in your preferred game engine (e.g., Unity or Unreal).
+2. Unzip the compressed `Project.zip` file.
+3. Open the 3D environment in your preferred Unity.
+4. Hit Play and find all the gold cylinders!
 
 ---
