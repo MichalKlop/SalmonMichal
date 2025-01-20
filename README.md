@@ -1,6 +1,8 @@
 
 # 3D Cartographer's Quest Scene
 
+FILES UPLOADING BY THE END OF THE DAY 1/19/25
+
 This project features a 3D environment created in Unity from real-world scans of Crater Lake's Wizard island from 2010.
 
 ![3D Scene](image.png)
